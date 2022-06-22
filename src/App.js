@@ -38,14 +38,4 @@ export function App2() {
   );
 }
 
-// function col(username){
-//   if(username=="Deepa")
-//   {
-//     colour="red";
-//   }
-//   else
-//   {
-//     colour="black";
-//   }
-//    return colour;
-// }
+
